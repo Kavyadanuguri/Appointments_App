@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.list-con {
+  box-shadow: #b5b7c4 1px 1px 2px 2px;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  width: 270px;
+  margin: 10px;
+}
+.item-con1 {
+  display: flex;
+  justify-content: space-between;
+}
+.star-img {
+  height: 30px;
+  width: 30px;
+  margin-left: 70px;
+}
+.list-p1 {
+  margin-top: 0px;
+  font-weight: bold;
+  font-family: 'roboto';
+}
+.star-btn {
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 20px;
+}

@@ -1,0 +1,91 @@
+/* Write your CSS here */
+.bg-container {
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+}
+.con1 {
+  background-color: #ffffff;
+  width: 60vw;
+  border-radius: 10px;
+  padding: 20px;
+}
+.form-con1 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+}
+.app-label1 {
+  color: #b5b7c4;
+  font-family: 'roboto';
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+.app-input-element {
+  margin-bottom: 20px;
+  border-radius: 5px;
+  height: 30px;
+
+  padding: 5px;
+}
+
+.app-button {
+  background-color: #8b5cf6;
+  height: 40px;
+  color: #ffffff;
+  width: 80px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+.app-hr {
+  border-width: 1px;
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.star-btn1 {
+  background-color: transparent;
+  border-color: #9897f0;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  color: #9897f0;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+.con2 {
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+.app-h2 {
+  margin-left: 30px;
+  margin-top: 0px;
+}
+.ul-con {
+  display: flex;
+  flex-wrap: wrap;
+}
+.bg-star1 {
+  background-color: #9897f0;
+  border-color: #9897f0;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  color: white;
+  margin-right: 30px;
+  margin-top: 10px;
+}
